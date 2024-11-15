@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Anim",
+        "title": "Frontend Developer",
+        "details": "Expert in building interactive user interfaces using modern frameworks like React and Vue."
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Nazmul",
+        "title": "Backend Developer",
+        "details": "Specializes in creating robust server-side solutions with Node.js and Express."
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Rakib",
+        "title": "Fullstack Developer",
+        "details": "Combines expertise in frontend and backend development to deliver seamless applications."
+    },
+    {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Ashik",
+        "title": "UI/UX Designer",
+        "details": "Passionate about crafting intuitive designs that enhance user experiences."
+    },
+    {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Ovi",
+        "title": "Mobile App Developer",
+        "details": "Proficient in developing cross-platform mobile applications with Flutter and React Native."
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1542156822-6924d1a71ace?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "name": "Elis",
+        "title": "Software Developer",
+        "details": "Focuses on building scalable and efficient software solutions tailored to client needs."
+    }
+]
